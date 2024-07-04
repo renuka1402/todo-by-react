@@ -1,0 +1,31 @@
+body{
+  background-color: rgb(228, 239, 180);
+
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.todo{
+  width: 700px;
+  height: 400px;
+  background-color: rgb(115, 116, 113);
+  margin-top: 170px;
+  
+}
+.todo input{
+  width: 400px;
+}
+table{
+  width: 500px;
+  border: none;
+  margin: 10px;
+
+}
+td{
+  margin: 10px;
+
+  border: none;
+}
+#edit{
+  width: 300px;
+  height: 20px;
+}
